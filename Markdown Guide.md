@@ -1,6 +1,5 @@
 # Markdown Examples Guide
 
-
 # 1. Heading
 
 ## h2 
